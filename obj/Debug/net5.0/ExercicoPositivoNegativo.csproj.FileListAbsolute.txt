@@ -1,0 +1,16 @@
+C:\xampp\htdocs\udemy\ExercicoPositivoNegativo\bin\Debug\net5.0\ExercicoPositivoNegativo.exe
+C:\xampp\htdocs\udemy\ExercicoPositivoNegativo\bin\Debug\net5.0\ExercicoPositivoNegativo.deps.json
+C:\xampp\htdocs\udemy\ExercicoPositivoNegativo\bin\Debug\net5.0\ExercicoPositivoNegativo.runtimeconfig.json
+C:\xampp\htdocs\udemy\ExercicoPositivoNegativo\bin\Debug\net5.0\ExercicoPositivoNegativo.runtimeconfig.dev.json
+C:\xampp\htdocs\udemy\ExercicoPositivoNegativo\bin\Debug\net5.0\ExercicoPositivoNegativo.dll
+C:\xampp\htdocs\udemy\ExercicoPositivoNegativo\bin\Debug\net5.0\ref\ExercicoPositivoNegativo.dll
+C:\xampp\htdocs\udemy\ExercicoPositivoNegativo\bin\Debug\net5.0\ExercicoPositivoNegativo.pdb
+C:\xampp\htdocs\udemy\ExercicoPositivoNegativo\obj\Debug\net5.0\ExercicoPositivoNegativo.csproj.AssemblyReference.cache
+C:\xampp\htdocs\udemy\ExercicoPositivoNegativo\obj\Debug\net5.0\ExercicoPositivoNegativo.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\udemy\ExercicoPositivoNegativo\obj\Debug\net5.0\ExercicoPositivoNegativo.AssemblyInfoInputs.cache
+C:\xampp\htdocs\udemy\ExercicoPositivoNegativo\obj\Debug\net5.0\ExercicoPositivoNegativo.AssemblyInfo.cs
+C:\xampp\htdocs\udemy\ExercicoPositivoNegativo\obj\Debug\net5.0\ExercicoPositivoNegativo.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\udemy\ExercicoPositivoNegativo\obj\Debug\net5.0\ExercicoPositivoNegativo.dll
+C:\xampp\htdocs\udemy\ExercicoPositivoNegativo\obj\Debug\net5.0\ref\ExercicoPositivoNegativo.dll
+C:\xampp\htdocs\udemy\ExercicoPositivoNegativo\obj\Debug\net5.0\ExercicoPositivoNegativo.pdb
+C:\xampp\htdocs\udemy\ExercicoPositivoNegativo\obj\Debug\net5.0\ExercicoPositivoNegativo.genruntimeconfig.cache
